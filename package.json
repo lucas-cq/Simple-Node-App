@@ -1,0 +1,23 @@
+{
+  "name": "asgn4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-cq/cpnt262-a4.git"
+  },
+  "keywords": [],
+  "author": "Lucas Cummings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucas-cq/cpnt262-a4/issues"
+  },
+  "homepage": "https://github.com/lucas-cq/cpnt262-a4#readme",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
