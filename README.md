@@ -15,3 +15,9 @@ Give the terminal a type of beer and an amount.
 ```
 --beer=Stout --amount=3
 ```
+
+### Third Party Integration
+* I used [Yargs](https://www.npmjs.com/package/yargs) to make my own arguments. Line 20 as an example
+
+### Attributions
+* [Yargs](https://www.npmjs.com/package/yargs)
